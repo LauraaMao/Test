@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # neuron explorer
 
 Steering-first neuron explorer for Qwen3.5-4B. Every MLP neuron in a layer is pushed up and down on a few prompts, every
@@ -76,3 +77,10 @@ and {free} × {+3}, plus one unsteered baseline per prompt.
 ## License
 
 MIT, see [LICENSE](LICENSE).
+=======
+# Welcome to GitHub Desktop!
+
+This is your README. READMEs are where you can communicate what your project is and how to use it.
+
+Write your name on line 6, save it, and then head back to GitHub Desktop.
+>>>>>>> 2423ddacd523c50dee8f7742066fca97fd01b622
